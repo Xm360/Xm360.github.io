@@ -1,3 +1,4 @@
-title: xm360
-description: Just another site
-theme: jekyll-theme-cayman
+name: cm-itsys.de
+markdown: kramdown
+highlighter: rouge
+
