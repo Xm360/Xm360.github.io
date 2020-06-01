@@ -5,4 +5,4 @@ date:   2014-01-02 11:00:00
 categories: aktuelles
 ---
 
-{% twitter oembed https://twitter.com/rubygems/status/418678317152075776 %}
+https://twitter.com/rubygems/status/418678317152075776
